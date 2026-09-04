@@ -90,8 +90,7 @@ git push -u origin main
    | `SUPABASE_SERVICE_ROLE_KEY` | the `service_role` key from the same page |
 
 4. Click **Deploy**. Wait ~1-2 minutes.
-5. Vercel gives you a public URL like `https://cx-reply-assistant.vercel.app`.
-   **This is the URL you submit.**
+5. Vercel gives you a public URL.
 
 ## 6. Try it
 
